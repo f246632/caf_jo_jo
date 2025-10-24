@@ -1,0 +1,27 @@
+{
+  "google_rating": "4.9/5",
+  "total_reviews": 111,
+  "source": "Google Maps & NeoTaste",
+  "reviews": [
+    {
+      "author": "Local Customer",
+      "rating": 5,
+      "text": "Sehr süßes Café, mega Kuchen, guter Kaffee",
+      "text_en": "Very sweet café, amazing cake, good coffee",
+      "date": "2024"
+    },
+    {
+      "author": "Berlin Foodie",
+      "rating": 5,
+      "text": "Kuchen ist selbstsgebacken - sehr lecker!",
+      "text_en": "Cake is homemade - very delicious!",
+      "date": "2024"
+    },
+    {
+      "author": "NeoTaste Review",
+      "rating": 5,
+      "text": "A treasure trove of delicious flavors with artisanal coffees, fresh pastries, and hearty brunch options",
+      "date": "2024"
+    }
+  ]
+}

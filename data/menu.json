@@ -1,0 +1,145 @@
+{
+  "cafe_name": "CAFÉ JO|JO",
+  "categories": [
+    {
+      "name": "Coffee & Espresso",
+      "name_de": "Kaffee & Espresso",
+      "items": [
+        {
+          "name": "Espresso",
+          "description": "Rich, aromatic espresso from artisanal beans",
+          "description_de": "Reichhaltiger, aromatischer Espresso aus handwerklichen Bohnen",
+          "price": "€2.50"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "Classic cappuccino with velvety milk foam",
+          "description_de": "Klassischer Cappuccino mit samtigem Milchschaum",
+          "price": "€3.50"
+        },
+        {
+          "name": "Latte Macchiato",
+          "description": "Layered espresso with steamed milk",
+          "description_de": "Geschichteter Espresso mit aufgeschäumter Milch",
+          "price": "€4.00"
+        },
+        {
+          "name": "Americano",
+          "description": "Espresso with hot water",
+          "description_de": "Espresso mit heißem Wasser",
+          "price": "€3.00"
+        },
+        {
+          "name": "Flat White",
+          "description": "Smooth espresso with microfoam milk",
+          "description_de": "Sanfter Espresso mit Mikroschaum-Milch",
+          "price": "€4.00"
+        }
+      ]
+    },
+    {
+      "name": "Specialty Drinks",
+      "name_de": "Spezialitäten",
+      "items": [
+        {
+          "name": "Chai Latte",
+          "description": "Spiced tea with steamed milk",
+          "description_de": "Gewürzter Tee mit aufgeschäumter Milch",
+          "price": "€4.50"
+        },
+        {
+          "name": "Hot Chocolate",
+          "description": "Rich, creamy hot chocolate",
+          "description_de": "Reichhaltige, cremige heiße Schokolade",
+          "price": "€4.00"
+        }
+      ]
+    },
+    {
+      "name": "Fresh Pastries",
+      "name_de": "Frisches Gebäck",
+      "items": [
+        {
+          "name": "Butter Croissant",
+          "description": "Homemade butter croissant, flaky and golden",
+          "description_de": "Hausgemachtes Buttercroissant, blättrig und golden",
+          "price": "€3.00",
+          "highlight": true
+        },
+        {
+          "name": "Cinnamon Roll",
+          "description": "Fresh baked cinnamon roll with icing",
+          "description_de": "Frisch gebackene Zimtschnecke mit Glasur",
+          "price": "€3.50",
+          "highlight": true
+        },
+        {
+          "name": "Muffins",
+          "description": "Daily selection of homemade muffins",
+          "description_de": "Tägliche Auswahl an hausgemachten Muffins",
+          "price": "€3.20"
+        }
+      ]
+    },
+    {
+      "name": "Cakes & Sweets",
+      "name_de": "Kuchen & Süßes",
+      "items": [
+        {
+          "name": "Homemade Cake",
+          "description": "Daily selection of homemade cakes",
+          "description_de": "Tägliche Auswahl an hausgemachten Kuchen",
+          "price": "€4.50",
+          "highlight": true
+        },
+        {
+          "name": "Cake Slice",
+          "description": "Ask about today's special flavors",
+          "description_de": "Fragen Sie nach den heutigen Sorten",
+          "price": "€4.00-€5.00"
+        }
+      ]
+    },
+    {
+      "name": "Savory",
+      "name_de": "Herzhaftes",
+      "items": [
+        {
+          "name": "Homemade Soup",
+          "description": "Daily fresh soup, ask for today's flavor",
+          "description_de": "Täglich frische Suppe, fragen Sie nach der heutigen Sorte",
+          "price": "€5.50"
+        },
+        {
+          "name": "Brunch Selection",
+          "description": "Hearty brunch options available",
+          "description_de": "Herzhafte Brunch-Optionen verfügbar",
+          "price": "€8-€12"
+        }
+      ]
+    },
+    {
+      "name": "Tea Selection",
+      "name_de": "Teeauswahl",
+      "items": [
+        {
+          "name": "Premium Tea",
+          "description": "Large selection of fine teas",
+          "description_de": "Große Auswahl an feinen Teesorten",
+          "price": "€3.50",
+          "highlight": true
+        }
+      ]
+    }
+  ],
+  "features": [
+    "Große Auswahl an Teesorten",
+    "Guter Kaffee",
+    "Frühstück",
+    "Allein speisen",
+    "Homemade pastries",
+    "Artisanal coffee"
+  ],
+  "price_range": "€1-€20 per person",
+  "price_range_de": "€1-€20 pro Person"
+}

@@ -1,0 +1,66 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies (if using build tools in future)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs (if using build tools)
+dist/
+build/
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Image processing temporary files
+images/.processing/
+
+# Development only files
+dev-notes.txt
+todo-private.md
+
+# Testing
+coverage/
+.nyc_output/
+
+# Optional: Keep source images but ignore processing artifacts
+# images/source/.editing/
